@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, Redux or Javascript**
 
-- 📫 How to reach me **Gavinrilee@icloud.com**
+- 📫 How to reach me **Gavin.rilee@icloud.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1IjQs8YdgxlFQUOPZuS0IYl6EjROz81Qqg1JtGjf7Zlc/edit?usp=sharing](Resume)
 
