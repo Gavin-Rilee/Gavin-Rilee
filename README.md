@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [Work in progress :)](Work in progress :))
 
-- 💬 Ask me about **React, Redux or Javascript**
+- 💬 Ask me about **React, Redux or JavaScript**
 
 - 📫 How to reach me **Gavin.rilee@icloud.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1IjQs8YdgxlFQUOPZuS0IYl6EjROz81Qqg1JtGjf7Zlc/edit?usp=sharing](Resume)
+- 📄 My Resume [https://docs.google.com/document/d/1IjQs8YdgxlFQUOPZuS0IYl6EjROz81Qqg1JtGjf7Zlc/edit?usp=sharing](Resume)
 
 - ⚡ Fun fact **I love D&D, Surfing,Dachshunds and Anime<3**
 
