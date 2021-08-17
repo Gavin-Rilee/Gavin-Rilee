@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Gavinrilee@icloud.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1IjQs8YdgxlFQUOPZuS0IYl6EjROz81Qqg1JtGjf7Zlc/edit?usp=sharing](https://docs.google.com/document/d/1IjQs8YdgxlFQUOPZuS0IYl6EjROz81Qqg1JtGjf7Zlc/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1IjQs8YdgxlFQUOPZuS0IYl6EjROz81Qqg1JtGjf7Zlc/edit?usp=sharing](Resume)
 
 - ⚡ Fun fact **I love D&D, Surfing,Dachshunds and Anime<3**
 
