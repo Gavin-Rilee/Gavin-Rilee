@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gavin-rilee&label=Profile%20views&color=0e75b6&style=flat" alt="gavin-rilee" /> </p>
 
-- 🔭 I’m currently working on **Pochickio Art Portfolio**
+- 🔭 I’m currently working on **Encryptid**
 
 - 🌱 I’m currently learning **Python & Angular**
 
-- 👨‍💻 All of my projects are available at [Work in progress :)](Work in progress :))
+- 👨‍💻 All of my projects are available at https://gavin1022.netlify.app/
 
 - 💬 Ask me about **React, Redux or JavaScript**
 
